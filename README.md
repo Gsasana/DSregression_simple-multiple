@@ -1,4 +1,4 @@
-# DSregression_simple
+# DSregression_simple&multiple
 
 L’objectif est de se familiariser avec la notion de régression linéaire. 
 
